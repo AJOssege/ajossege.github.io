@@ -30,7 +30,34 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Professional Speaking Engagments
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AJOssege/ajossege.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+“Monetizing the value of Marketing” 
+Spring Conference - AESP (2018)
+
+“Customers know best when it comes to behavior change, are you listening?” 
+National Conference on Energy Efficiency as a Resource - ACEEE (2015)
+
+“Assessing the Impact of Communication Channel on Behavior Changes in EE” 
+Advanced Analytics Track – SAS Global Forum (2015)
+
+“Program Implementer, Regulator, and Evaluator Relationships”  
+Panel Member: International Energy Program Evaluation Conference -IEPEC (2013)
+
+“Improving Customer Engagement with Big Data”
+Utility Analytics and Optimization Summit (2012)
+
+“Energy Efficiency Gateways: Risks and Rewards of Customer Cross Selling”  
+Co-Author of IEPEC White Paper (2011)
+
+“Comparison Reports: Analytic Insights and Business Case”  
+AESP 21st National Conference: Evaluation Measurement & Verification (2011)
+
+“Managing Marketing Effectiveness through Market Analytics”
+AESP Spring Conference: Program Implementation and Marketing (2010)
+
+“Utilizing GIS to plan for Plug-in Electric Vehicle Market Penetration and System 
+Impacts” EUCI Web Conference: Enabling the Smart Grid with GIS (2009)
+
+
 
 ### Support or Contact
 
