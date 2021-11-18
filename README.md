@@ -30,6 +30,8 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Professional Speaking Engagments
 
+[Presentations](ajossege.github.io/presentations)
+
 “Monetizing the value of Marketing” 
 Spring Conference - AESP (2018)
 
