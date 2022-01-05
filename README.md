@@ -3,6 +3,7 @@
 Passionate about data
 
 ### Projects
+[Projects](ajossege.github.io/projects)
 
 ##	Unsupervised Model Optimization for Shopify Product Recommendations (Capstone)
 o	Using analytics data streams from consumer interactions with “Product Discovery” app, the problem is to improve the quality of the recommendations provided to shoppers.
@@ -17,7 +18,6 @@ o	Accuracy in final model was 98%, allowing for greater prediction….
 o	Airbnb consumers currently can only search on location.  My program, written in python, searches through Airbnb descriptions and reviews, quantifies characteristics using NLP, and applies distance calculations to nearby landmarks for a consumer to select an Airbnb based on landmarks and comfort features or amenities.
 
 
-[Projects](ajossege.github.io/projects)
 ```
 
 
