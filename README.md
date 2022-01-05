@@ -13,7 +13,9 @@ Passionate about data
 ####	Disaster Relief Prediction of Locations of Human Aid Needs in Haiti from Photo Image Data 
 * 	The need: Search millions of photos to identify blue tarps in order to provide relief.(humanitarian crisis/aid
 * 	Images quantified using RGB , and clusters for Blue Tarps were built comparing QDA, LDA, SVM, Logistic, and other models
-* 	Accuracy in final model was 98%, allowing for greater prediction….
+* 	Accuracy in final model was 99%, allowing for greater prediction of locations for human need.
+
+
 ####	Improving quality of AirBnb results through NLP of reviews to create better key word searches
 *	Airbnb consumers currently can only search on location.  My program, written in python, searches through Airbnb descriptions and reviews, quantifies characteristics using NLP, and applies distance calculations to nearby landmarks for a consumer to select an Airbnb based on landmarks and comfort features or amenities.
 
