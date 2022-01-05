@@ -1,32 +1,26 @@
 ## Ashlie J Ossege
 
-You can use the [editor on GitHub](https://github.com/AJOssege/ajossege.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Passionate about data
 
 ### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##	Unsupervised Model Optimization for Shopify Product Recommendations (Capstone)
+o	Using analytics data streams from consumer interactions with “Product Discovery” app, the problem is to improve the quality of the recommendations provided to shoppers.
+o	Applied python, pandas, postgreSQL and numpy methods to data wrangle json files
+o	Applying experimental design optimization techniques, and random forest ML to validate product recommendations engine models.
 
-```markdown
-Syntax highlighted code block
+##	Disaster Relief Prediction of Locations of Human Aid Needs in Haiti from Photo Image Data 
+o	The need: Search millions of photos to identify blue tarps in order to provide relief.(humanitarian crisis/aid
+o	Images quantified using RGB , and clusters for Blue Tarps were built comparing QDA, LDA, SVM, Logistic, and other models
+o	Accuracy in final model was 98%, allowing for greater prediction….
+##	Improving quality of AirBnb results through NLP of reviews to create better key word searches
+o	Airbnb consumers currently can only search on location.  My program, written in python, searches through Airbnb descriptions and reviews, quantifies characteristics using NLP, and applies distance calculations to nearby landmarks for a consumer to select an Airbnb based on landmarks and comfort features or amenities.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Projects](ajossege.github.io/projects)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
 
 ### Professional Speaking Engagments
 
