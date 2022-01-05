@@ -21,7 +21,7 @@ Passionate about data
 
 
 
-### Professional Speaking Engagments
+### Professional Speaking Engagements
 
 [Presentations](ajossege.github.io/presentations)
 
