@@ -5,20 +5,17 @@ Passionate about data
 ### Projects
 [Projects](ajossege.github.io/projects)
 
-##	Unsupervised Model Optimization for Shopify Product Recommendations (Capstone)
-o	Using analytics data streams from consumer interactions with “Product Discovery” app, the problem is to improve the quality of the recommendations provided to shoppers.
-o	Applied python, pandas, postgreSQL and numpy methods to data wrangle json files
-o	Applying experimental design optimization techniques, and random forest ML to validate product recommendations engine models.
+####	Unsupervised Model Optimization for Shopify Product Recommendations (Capstone)
+* 	Using analytics data streams from consumer interactions with “Product Discovery” app, the problem is to improve the quality of the recommendations provided to shoppers.
+* 	Applied python, pandas, postgreSQL and numpy methods to data wrangle json files
+* 	Applying experimental design optimization techniques, and random forest ML to validate product recommendations engine models.
 
-##	Disaster Relief Prediction of Locations of Human Aid Needs in Haiti from Photo Image Data 
-o	The need: Search millions of photos to identify blue tarps in order to provide relief.(humanitarian crisis/aid
-o	Images quantified using RGB , and clusters for Blue Tarps were built comparing QDA, LDA, SVM, Logistic, and other models
-o	Accuracy in final model was 98%, allowing for greater prediction….
-##	Improving quality of AirBnb results through NLP of reviews to create better key word searches
-o	Airbnb consumers currently can only search on location.  My program, written in python, searches through Airbnb descriptions and reviews, quantifies characteristics using NLP, and applies distance calculations to nearby landmarks for a consumer to select an Airbnb based on landmarks and comfort features or amenities.
-
-
-```
+####	Disaster Relief Prediction of Locations of Human Aid Needs in Haiti from Photo Image Data 
+* 	The need: Search millions of photos to identify blue tarps in order to provide relief.(humanitarian crisis/aid
+* 	Images quantified using RGB , and clusters for Blue Tarps were built comparing QDA, LDA, SVM, Logistic, and other models
+* 	Accuracy in final model was 98%, allowing for greater prediction….
+####	Improving quality of AirBnb results through NLP of reviews to create better key word searches
+*	Airbnb consumers currently can only search on location.  My program, written in python, searches through Airbnb descriptions and reviews, quantifies characteristics using NLP, and applies distance calculations to nearby landmarks for a consumer to select an Airbnb based on landmarks and comfort features or amenities.
 
 
 
