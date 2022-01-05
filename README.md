@@ -55,7 +55,7 @@ Impacts” EUCI Web Conference: Enabling the Smart Grid with GIS (2009)
 
 
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 #### ajossege@gmail.com
+
