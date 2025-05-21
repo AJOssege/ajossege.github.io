@@ -1,6 +1,17 @@
 ## Ashlie J Ossege
 
 Passionate about data
+### Skills
+
+DATA SCIENCE: Supervised & Unsupervised ML, NLP including LLM, Bayesian ML, Random Forest, LDA, QDA, PCA, SVM, OLS/Logistic Regression, Gradient Boosting, Factor Analysis, Various Clustering Techniques (i.e. KNN) Webscraping, Experimental Design, Discrete Choice Conjoint, ANOVA/ANCOVA, A/B Testing, GLM, EDA
+
+SOFTWARE LANGUAGES & PACKAGES: 
+Data Science & NLP: Python, Pandas, Numpy, Scikit Learn, scipy.stats, R, SAS, BeautifulSoup
+Database: MSSQL, PostgreSQL, sqlalchemy, BigQuery, mysql, JupyterLab, JupyterNotebook, Spyder
+Visualization: Looker, PowerBI, Tableau, AWS Quicksights, seaborn(Python), matplotlib, PIL(image)
+AI: Azure OpenAI, ChatGPT, Perplexity, CoPilot, Gemini
+
+
 
 ### Projects
 [Projects](ajossege.github.io/projects)
