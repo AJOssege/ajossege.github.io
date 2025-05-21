@@ -1,6 +1,6 @@
 ## Ashlie J Ossege
 
-Passionate about data
+
 ### Skills
 
 DATA SCIENCE: Supervised & Unsupervised ML, NLP including LLM, Bayesian ML, Random Forest, LDA, QDA, PCA, SVM, OLS/Logistic Regression, Gradient Boosting, Factor Analysis, Various Clustering Techniques (i.e. KNN) Webscraping, Experimental Design, Discrete Choice Conjoint, ANOVA/ANCOVA, A/B Testing, GLM, EDA
@@ -30,6 +30,17 @@ AI: Azure OpenAI, ChatGPT, Perplexity, CoPilot, Gemini
 ####	Improving quality of AirBnb results through NLP of reviews to create better key word searches
 *	Airbnb consumers currently can only search on location.  My program, written in python, searches through Airbnb descriptions and reviews, quantifies characteristics using NLP, and applies distance calculations to nearby landmarks for a consumer to select an Airbnb based on landmarks and comfort features or amenities.
 
+### Articles and Publications
+"Monitizing the Value of Marketing"(2019)
+https://www.linkedin.com/posts/activity-6534424912365449216-hYWq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASecfsB_ugUcYr5jKuVngDrYKeGyC1E6Xc
+
+"An Innovative Method of Customer Clustering"
+SAS Global Forum White Paper (2015)
+https://support.sas.com/resources/papers/proceedings15/3439-2015.pdf
+
+"Midsize Bank Customer Retention Strategies Study" (2021)
+https://blog.vyasystems.com/increase-mid-size-bank-customer-retention-research/
+Provide email for full report
 
 
 ### Professional Speaking Engagements
@@ -44,6 +55,7 @@ National Conference on Energy Efficiency as a Resource - ACEEE (2015)
 
 “Assessing the Impact of Communication Channel on Behavior Changes in EE” 
 Advanced Analytics Track – SAS Global Forum (2015)
+https://support.sas.com/resources/papers/proceedings15/3401-2015.pdf
 
 “Program Implementer, Regulator, and Evaluator Relationships”  
 Panel Member: International Energy Program Evaluation Conference -IEPEC (2013)
