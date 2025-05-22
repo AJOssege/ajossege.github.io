@@ -1,20 +1,58 @@
 ## Ashlie J Ossege
 
 
-### Skills
+# 📊 Data Science & AI Skillset
 
-DATA SCIENCE: Supervised & Unsupervised ML, NLP including LLM, Bayesian ML, Random Forest, LDA, QDA, PCA, SVM, OLS/Logistic Regression, Gradient Boosting, Factor Analysis, Various Clustering Techniques (i.e. KNN) Webscraping, Experimental Design, Discrete Choice Conjoint, ANOVA/ANCOVA, A/B Testing, GLM, EDA
+## 🧠 DATA SCIENCE
 
-SOFTWARE LANGUAGES & PACKAGES: 
-Data Science & NLP: Python, Pandas, Numpy, Scikit Learn, scipy.stats, R, SAS, BeautifulSoup
-Database: MSSQL, PostgreSQL, sqlalchemy, BigQuery, mysql, JupyterLab, JupyterNotebook, Spyder
-Visualization: Looker, PowerBI, Tableau, AWS Quicksights, seaborn(Python), matplotlib, PIL(image)
-AI: Azure OpenAI, ChatGPT, Perplexity, CoPilot, Gemini
+**Core Techniques:**
+
+- **Machine Learning:**  
+  - Supervised & Unsupervised ML  
+  - Random Forest, Gradient Boosting  
+  - SVM, PCA, LDA, QDA  
+  - OLS / Logistic Regression  
+  - Factor Analysis, Clustering (e.g., KNN)  
+
+- **Statistical Methods:**  
+  - Bayesian ML  
+  - ANOVA / ANCOVA  
+  - A/B Testing  
+  - GLM (Generalized Linear Models)  
+  - Discrete Choice Conjoint  
+  - Experimental Design  
+  - EDA (Exploratory Data Analysis)
+
+- **Natural Language Processing (NLP):**  
+  - Large Language Models (LLM)  
+  - Web Scraping  
+  - NLP-specific modeling
+
+---
+
+## 💻 SOFTWARE LANGUAGES & PACKAGES
+
+### 🧮 Data Science & NLP
+- **Languages & Libraries:**  
+  Python, R, SAS  
+  - `pandas`, `numpy`, `scikit-learn`, `scipy.stats`, `BeautifulSoup`
+
+### 🗃️ Databases & Tools
+- **Database Platforms:**  
+  MSSQL, PostgreSQL, MySQL, BigQuery  
+- **Tools:**  
+  `sqlalchemy`, JupyterLab, Jupyter Notebook, Spyder
+
+### 📊 Visualization
+- Looker, Power BI, Tableau, AWS Quicksight  
+- `seaborn`, `matplotlib`, `PIL` (Python Imaging Library)
+
+### 🤖 AI Platforms
+- Azure OpenAI, ChatGPT, Perplexity, GitHub Copilot, Gemini
 
 
 
 ### Projects
-[Projects](ajossege.github.io/projects)
 
 ####	Unsupervised Model Optimization for Shopify Product Recommendations (Capstone)
 * 	Using analytics data streams from consumer interactions with “Product Discovery” app, the problem is to improve the quality of the recommendations provided to shoppers.
