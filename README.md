@@ -1,5 +1,4 @@
-## Ashlie J Ossege
-# 🎓 Portfolio
+# Professional Portfolio
 
 # 📊 Data Science & AI Skillset
 
