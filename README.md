@@ -84,10 +84,11 @@
 
 ## 📰 Articles and Publications
 
-- ["Monetizing the Value of Marketing" (2019)](https://www.linkedin.com/posts/activity-6534424912365449216-hYWq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASecfsB_ugUcYr5jKuVngDrYKeGyC1E6Xc)  
-- ["An Innovative Method of Customer Clustering" – SAS Global Forum White Paper (2015)](https://support.sas.com/resources/papers/proceedings15/3439-2015.pdf)  
+
 - ["Midsize Bank Customer Retention Strategies Study" (2021)](https://blog.vyasystems.com/increase-mid-size-bank-customer-retention-research/)  
   > *Email to request full report*
+- ["Monetizing the Value of Marketing" (2019)](https://www.linkedin.com/posts/activity-6534424912365449216-hYWq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASecfsB_ugUcYr5jKuVngDrYKeGyC1E6Xc)  
+- ["An Innovative Method of Customer Clustering" – SAS Global Forum White Paper (2015)](https://support.sas.com/resources/papers/proceedings15/3439-2015.pdf)  
 
 ---
 
