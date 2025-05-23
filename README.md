@@ -1,14 +1,5 @@
 ## Ashlie J Ossege
-
-# 🎓 Portfolio Overview
-
-## 📌 Quick Links
-- [Data Science & AI Skillset](#Data-Science-&-AI-Skillset)
-- [Projects](#projects)
-- [Articles and Publications](#articles-and-publications)
-- [Professional Speaking Engagements](#professional-speaking-engagements)
-- [Contact](#contact)
-
+# 🎓 Portfolio
 
 # 📊 Data Science & AI Skillset
 
@@ -60,8 +51,6 @@
 - Azure OpenAI, ChatGPT, Perplexity, GitHub Copilot, Gemini
 
 
-
-
 ---
 
 ## 🚀 Projects
@@ -108,7 +97,7 @@
 - **"Monetizing the Value of Marketing"** – AESP Spring Conference (2018)  
 - **"Customers Know Best When It Comes to Behavior Change, Are You Listening?"** – ACEEE National Conference on Energy Efficiency as a Resource (2015)  
 - **"Assessing the Impact of Communication Channel on Behavior Changes in EE"** – SAS Global Forum (2015)  
-  [View Paper →](https://support.sas.com/resources/papers/proceedings15/3401-2015.pdf)  
+  [Click for Paper →](https://support.sas.com/resources/papers/proceedings15/3401-2015.pdf)  
 - **Panelist:** "Program Implementer, Regulator, and Evaluator Relationships" – IEPEC (2013)  
 - **"Improving Customer Engagement with Big Data"** – Utility Analytics and Optimization Summit (2012)  
 - **"Energy Efficiency Gateways: Risks and Rewards of Customer Cross Selling"** – Co-Author, IEPEC White Paper (2011)  
@@ -120,8 +109,9 @@
 
 ## 📬 Contact
 
-📧 ajossege@gmail.com  
-🔗 GitHub: AJOssege.github.io
+📧 ajossege@gmail.com
+📞 [Cell: 513-888-7792](tel:5138887792)
+
 
 ---
 
